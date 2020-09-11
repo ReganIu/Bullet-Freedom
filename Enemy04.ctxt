@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Enemy04
+comment0.text=\r\n\ The\ fourth\ enemy\ that\ the\ user\ can\ add\ to\ their\ game\ \r\n\ \r\n\ Jonah\ Reeves,\ Cody\ Chiu,\ Regan\ Iu\r\n\ January\ 18/\ 2018\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ The\ enemy\ fires\ in\ a\ straight\r\n\ line\ at\ a\ periodic\ interval\r\n
+comment2.params=
+comment2.target=void\ fire()
+comment2.text=\r\n\ The\ fire\ function\ for\ the\ enemy.\ \r\n
+numComments=3

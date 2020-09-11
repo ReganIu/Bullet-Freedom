@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Enemy01
+comment0.text=\r\n\ The\ first\ enemy\ that\ the\ user\ can\ add\ to\ their\ game\ \r\n\ \r\n\ Jonah\ Reeves,\ Cody\ Chiu,\ Regan\ Iu\r\n\ January\ 18/\ 2018\r\n
+comment1.params=
+comment1.target=Enemy01()
+comment1.text=\r\n\ Constructor\ that\ marks\ the\ time\ so\ millisElapsed\ can\ be\ used.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ fire()
+comment3.text=\r\n\ The\ fire\ function\ for\ the\ enemy\r\n
+comment4.params=
+comment4.target=void\ movement()
+comment4.text=\r\n\ The\ movement\ function\ for\ the\ enemy,\r\n\ causes\ it\ to\ "bounce"\ off\ at\ the\ edges\r\n\ of\ the\ world.\r\n
+numComments=5

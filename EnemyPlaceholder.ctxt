@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EnemyPlaceholder
+comment0.text=\r\n\ Clicking\ this\ actor\ during\ the\ building\ period\ will\ change\ what\ monster\ is\ placed\ by\ left\ clicking\r\n\ \r\n\ Jonah\ Reeves,\ Cody\ Chiu,\ Regan\ Iu\r\n\ January\ 18/\ 2018\r\n
+comment1.params=mID
+comment1.target=EnemyPlaceholder(int)
+comment1.text=\r\n\ Determines\ which\ enemy\ is\ picked\ during\ the\ building\ process\r\n\ of\ the\ game.\r\n
+numComments=2

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BulletRainHelper
+comment0.text=\r\n\ This\ actor\ is\ a\ helper\ actor\ for\ one\ of\r\n\ the\ three\ attacks\ for\ the\ boss.`\r\n\ \r\n\ Jonah\ Reeves,\ Cody\ Chiu,\ Regan\ Iu\r\n\ January\ 18/\ 2018\r\n
+comment1.params=
+comment1.target=void\ prepare()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Creates\ the\ pathway\ out\ of\ bullets\r\n\ that\ the\ user\ has\ to\ navigate\ through\r\n
+numComments=3

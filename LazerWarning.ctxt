@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LazerWarning
+comment0.text=\r\n\ Actor\ is\ spawned\ by\ the\ boss,\ after\ a\ couple\ seconds,\ it\ will\ kill\ the\ player\ if\ they\ are\ ontop\ of\ this\ actor\r\n\ \r\n\ Jonah\ Reeves,\ Cody\ Chiu,\ Regan\ Iu\r\n\ January\ 18/\ 2018\r\n
+comment1.params=backgroundMusic
+comment1.target=LazerWarning(greenfoot.GreenfootSound)
+comment1.text=\r\n\ Constructor\ that\ takes\ in\ the\ backgroundMusic\ as\ parameters\r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Spawns\ the\ laser\ attack\ move\ performed\ by\ the\ boss\r\n
+numComments=4

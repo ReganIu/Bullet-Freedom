@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Enemy03
+comment0.text=\r\n\ The\ third\ enemy\ that\ the\ user\ can\ add\ to\ their\ game\r\n\ \r\n\ Jonah\ Reeves,\ Cody\ Chiu,\ Regan\ Iu\r\n\ January\ 18/\ 2018\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Fires\ in\ a\ motion\ that\ is\ similar\r\n\ to\ a\ sprinkler.\r\n
+comment2.params=
+comment2.target=void\ fire()
+comment2.text=\r\n\ The\ firing\ function\ for\ the\ enemy.\r\n
+numComments=3

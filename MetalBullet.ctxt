@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MetalBullet
+comment0.text=\r\n\ A\ bullet\ that\ the\ boss\ fires\ during\ the\ "tornado"\ \r\n\ attack\ moves.\r\n\ \r\n\ Jonah\ Reeves,\ Cody\ Chiu,\ Regan\ Iu\r\n\ January\ 18/\ 2018\r\n
+comment1.params=theAngle\ theSpeed
+comment1.target=MetalBullet(int,\ int)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ EnemyBullet\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Moves\ the\ bullet\ at\ the\ speed\ given\ by\ user\ and\r\n\ removes\ bullet\ if\ it\ is\ at\ the\ edge\ of\ screen.\r\n
+numComments=3

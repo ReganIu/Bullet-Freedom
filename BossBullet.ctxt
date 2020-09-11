@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BossBullet
+comment0.text=\r\n\ A\ bullet\ the\ boss\ fires\ during\ the\ bullet\ rain\ ability,\ it\ works\ the\ same\ as\ other\ bullets\ with\ a\ difffernt\ hitbox\r\n\ \r\n\ Jonah\ Reeves,\ Cody\ Chiu,\ Regan\ Iu\r\n\ January\ 18/\ 2018\r\n
+comment1.params=theAngle\ theSpeed
+comment1.target=BossBullet(int,\ int)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ EnemyBullet\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

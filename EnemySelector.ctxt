@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EnemySelector
+comment0.text=\r\n\ Sets\ the\ image\ that\ corresponds\ to\ each\ enemy,\ including\ the\ boss.\r\n\ \r\n\ Jonah\ Reeves,\ Cody\ Chiu,\ Regan\ Iu\r\n\ January\ 18/\ 2018\r\n
+comment1.params=mID\ a
+comment1.target=EnemySelector(int,\ boolean)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ EnemySelector\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
