@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Victory
+comment0.text=\r\n\ Victory\ screen\ that\ appears\ once\ the\ boss\ has\ been\ defeated,\ allows\ user\ to\ play\ again\r\n\ \r\n\ Jonah\ Reeves,\ Cody\ Chiu,\ Regan\ Iu\r\n\ January\ 18/\ 2018\r\n
+comment1.params=backgroundMusic
+comment1.target=Victory(greenfoot.GreenfootSound)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Victory.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Creates\ new\ title\ screen\ if\ user\ \r\n\ clicks\ on\ the\ home\ button.\r\n
+numComments=4

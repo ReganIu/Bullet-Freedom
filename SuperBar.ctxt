@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SuperBar
+comment0.text=\r\n\ This\ actor\ constantly\ updates\ to\ \r\n\ show\ the\ charging\ of\ the\ special\ ability.\r\n\ \r\n\ Jonah\ Reeves,\ Cody\ Chiu,\ Regan\ Iu\r\n\ January\ 18/\ 2018\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Shows\ the\ charging\ process\ for\ the\ special\ ability\r\n\ used\ by\ the\ Player\ class.\ Flashes\ green\ when\ the\ \r\n\ special\ ability\ is\ ready\ to\ be\ used,\ and\ cyan\ otherwise.\r\n
+numComments=2

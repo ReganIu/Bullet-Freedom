@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TornadoHelper
+comment0.text=\r\n\ An\ actor\ that\ the\ Enemy05\ creates\ in\ order\ to\ spawn\ a\ flurry\ of\ bullets\r\n\ \r\n\ Jonah\ Reeves,\ Cody\ Chiu,\ Regan\ Iu\r\n\ January\ 18/\ 2018\r\n
+comment1.params=
+comment1.target=void\ prepare()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ TornadoHelper\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

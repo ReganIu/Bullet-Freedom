@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ This\ the\ main\ character\ class,\ where\ the\ user\ has\ the\ ability\r\n\ to\ control\ the\ movement\ the\ actor,to\ fire\ bullets,\ and\ kill\ enemies.\r\n\ \r\n\ Jonah\ Reeves,\ Cody\ Chiu,\ Regan\ Iu\r\n\ January\ 18/\ 2018\r\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Player\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Allows\ user\ to\ move\ character,\ fire\ and\ use\ special\ ability.\ \r\n\ Also\ checks\ if\ this\ actor\ gets\ hit\ by\ enemy\ bullets.\r\n
+comment3.params=
+comment3.target=void\ touchingBullet()
+comment3.text=\r\n\ This\ method\ is\ to\ check\ if\ our\ actor\ is\ \r\n\ touching\ any\ of\ the\ enemies\ bullets,\ \r\n\ causing\ the\ user\ to\ lose\ a\ life\ and\ gain\r\n\ invulnerability\ for\ a\ short\ period\ of\ time.\r\n
+comment4.params=
+comment4.target=void\ moveCharacter()
+comment4.text=\r\n\ Moves\ the\ Actor\ by\ pressing\ WASD\ keys.\r\n
+comment5.params=
+comment5.target=void\ fire()
+comment5.text=\r\n\ This\ is\ the\ firing\ mechanism\ for\ the\ actor\r\n
+comment6.params=
+comment6.target=void\ specialAbility()
+comment6.text=\r\n\ Code\ below\ is\ for\ the\ special\ ability\ of\ the\ actor\r\n
+numComments=7

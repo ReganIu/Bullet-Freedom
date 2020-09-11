@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tracer
+comment0.text=\r\n\ During\ the\ level\ creation\ part,this\ actor\ keeps\ \r\n\ track\ of\ the\ wave\ number\ the\ user\ is\ on,\r\n\ as\ well\ as\ the\ number\ of\ enemies\ \r\n\ \r\n\ Jonah\ Reeves,\ Cody\ Chiu,\ Regan\ Iu\r\n\ January\ 18/\ 2018\r\n
+comment1.params=select
+comment1.target=Tracer(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Checks\ wave\ number,\ enemy\ count\ while\ creating\ levels,\r\n\ as\ well\ as\ the\ wave\ number\ and\ live\ count\ while\ in\ game.\r\n
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SuperMove
+comment0.text=\r\n\ The\ super\ ability\ actor,\ can\ be\ spawned\ when\ the\ supercharge\ variable\ is\ 20\ in\ the\ world\ class,\ this\ can\ wipe\ bullets\ off\ the\ screen\ and\ kill\ enemies\r\n\ Due\ to\ technical\ limitations\ and\ how\ many\ actors\ can\ be\ recognized\ in\ one\ period\ of\ act,\ it\ will\ not\ destroy\ all\ bullets\ when\ there\ is\ an\ excess\ of\ bullets.\r\n\ \r\n\ Jonah\ Reeves,\ Cody\ Chiu,\ Regan\ Iu\r\n\ January\ 18/\ 2018\r\n
+comment1.params=
+comment1.target=void\ prepare()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ SuperMove\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
